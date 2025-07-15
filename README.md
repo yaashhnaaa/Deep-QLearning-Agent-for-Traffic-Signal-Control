@@ -116,16 +116,12 @@ The settings used during the testing and contained in the file **testing_setting
 - *The neural network training is now executed at the end of each episode, instead of during the episode. This improves the overall speed of the algorithm.*
 - *The code for the neural network is now written using Keras and Tensorflow 2.0.*
 - *Added a settings file (.ini) for both training and testing.*
-- *Added a minimum number of samples required into the memory to begin training.*
+- *Added a minimum number of samples required in memory to begin training.*
 - *Improved code readability.*
 
 ## Author
 
-* **Andrea Vidali** - *University of Milano-Bicocca*
-
-If you need further information about the algorithm, I suggest you open an issue on the issues page.
-
-## License
+* **Yashna Singh** - *Pranveer Singh Institute of Technology*
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
